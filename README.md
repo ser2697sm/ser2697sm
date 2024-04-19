@@ -1,16 +1,14 @@
-### Hi there 👋
 
-<!--
-**ser2697sm/ser2697sm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Sergio! 👋
 
-Here are some ideas to get you started:
+Backend Developer 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I am 26 years old and I am from Lorca, Murcia.
+
+
+### Technologies
+![JAVA 17](https://img.shields.io/badge/Java-JDK%2017-orange)
+
+### Contact Me
+<a href="sergiomartinez2m@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-sergiomartinez2m@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="https://twitter.com/Sergio2697sm"><img alt="twitter" src="https://img.shields.io/badge/twitter-Sergio2697sm-blue?style=flat-square&logo=twitter"></a>  
