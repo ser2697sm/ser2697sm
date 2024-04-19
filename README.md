@@ -15,3 +15,5 @@ Backend Developer
 <a href="https://www.linkedin.com/in/sergio-martinez-martinez-474152125/"><img alt="LinkedIn" src="https://img.shields.io/badge/Sergio Martinez-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link="></a>
 
 ![GitHub Activity](https://github-readme-stats.vercel.app/api?username=ser2697sm&show_icons=true)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ser2697sm&label=Profile%20views&color=0e75b6&style=flat" alt="mauro069" /> </p>
